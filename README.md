@@ -2,12 +2,12 @@
 
 # Práctica 2: Caos en sistemas biológicos
 
-## Información de la estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+## Información del estudiante
+Oscar González Ramírez \[M25210050]; m25210050@tectijuana.edu.mx
 
 Gemelos Digitales
 
-Ingeniería Biomédica
+Maestría en Ciencias de la Ingeniería
 
 ## Docente
 Dr. Paul Antonio Valle Trujillo; paul.valle@tectijuana.edu.mx
@@ -35,10 +35,11 @@ Palabras clave: Caos; Conjuntos Compactos Invariantes; Condiciones de Estabilida
 
 ## Actividades a realizar
 1. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
-2. 
-3.
-4.
-...
+2. Calcular los puntos de equilibrio del sistema y su matriz jacobiana.
+3. Diseñar un algoritmo que refleje las varias dinámicas que puede adoptar el sistema a partir de los parámetros que componen a las EDOs y el cambio de valor del parámetro de bifurcación a12.
+4. Aplicar un ode a cada dinámica del sistema utilizando 3 diferentes métodos numéricos -el método de Euler, el método de Heun y el método de Runge-Kutta- y graficar las salidas del sistema.
+5. Graficar la divergencia que hay entre los 3 métodos numéricos empleados en cada una de las dinámicas reflejadas por el sistema, así como graficar el margen de error que hay entre dos métodos numéricos con respecto al resultado de las EDOs del sistema.
+6. Utilizar el algoritmo diseñado en el punto 3 para comprobar la condición de estabilidad asintótica del sistema vista desde todas las dinámicas que existen en ella a partir de su punto de equilibrio.
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
