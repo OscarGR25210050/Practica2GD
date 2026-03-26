@@ -1,4 +1,4 @@
-[[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=OscarGR25210050/Practica2GD)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=OscarGR25210050/Practica2GD)
 # Práctica 2: Caos en sistemas biológicos
 
 ## Información del estudiante
